@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module tb;
   reg [7:0] in;
   reg [2:0] shamt;
