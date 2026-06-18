@@ -1,3 +1,4 @@
+// detecting the sequence 1011 with overlap
 module sequence_mealy(
     input clk,
     input rst,
